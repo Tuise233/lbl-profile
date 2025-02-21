@@ -3,6 +3,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/lbl-profile/',
   plugins: [vue()],
   build: {
     outDir: 'docs'
