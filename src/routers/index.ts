@@ -11,7 +11,7 @@ const routes = [
 ];
 
 const router = createRouter({
-    history: createWebHistory('/profile'),
+    history: createWebHistory('/lbl-profile'),
     routes
 });
 
