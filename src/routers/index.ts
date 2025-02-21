@@ -4,7 +4,7 @@ import Home from '../views/Home/index.vue';
 
 const routes = [
     {
-        path: '/',
+        path: '/lbl-profile',
         name: 'Home',
         component: Home
     }
