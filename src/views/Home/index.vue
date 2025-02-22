@@ -42,7 +42,6 @@ function toggleTheme() {
                 </div>
                 <div class="app-brands">
                     <font-awesome-icon @click="openLink('https://github.com/tuise233')" :icon="['fab', 'github']" />
-                    <font-awesome-icon @click="openLink('https://space.bilibili.com/8013472')" :icon="['fab', 'bilibili']" />
                 </div>
             </div>
 
@@ -183,7 +182,6 @@ function toggleTheme() {
 
             <div class="app-brands">
                 <font-awesome-icon @click="openLink('https://github.com/tuise233')" :icon="['fab', 'github']" />
-                <font-awesome-icon @click="openLink('https://space.bilibili.com/8013472')" :icon="['fab', 'bilibili']" />
             </div>
         </div>
 
